@@ -4,6 +4,7 @@ blinker
 click
 colorama
 contourpy
+cors
 cycler
 debugpy
 decorator
